@@ -1,2 +1,2 @@
 # JavaScript
-차근차근 JS 개념 공부
+뚜벅뚜벅 JS 개념 공부
