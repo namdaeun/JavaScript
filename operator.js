@@ -4,7 +4,7 @@ console.log('1' + 2);
 console.log(`string literals: 1 + 2 = ${1 + 2}`);
 
 console.log('ellie\'s book');
-
+ 
 // 2. Numeric operators
 console.log(1 + 1); // add
 console.log(1 - 1); // subtract

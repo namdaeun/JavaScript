@@ -1,4 +1,4 @@
-'use strict';
+'use strict'; 
 
 // let (added in ES6)
 let name = 'ellie';
