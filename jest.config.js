@@ -12,7 +12,7 @@ module.exports = {
 
   // The directory where Jest should store its cached dependency information
   // cacheDirectory: "/private/var/folders/bp/1g7jv99s2td8cz0sgf5k3zc40000gn/T/jest_dx",
-
+ 
   // Automatically clear mock calls, instances, contexts and results before every test
   clearMocks: true,
 
@@ -24,7 +24,7 @@ module.exports = {
 
   // The directory where Jest should output its coverage files
   coverageDirectory: "coverage",
-
+ 
   // An array of regexp pattern strings used to skip coverage collection
   // coveragePathIgnorePatterns: [
   //   "/node_modules/"
