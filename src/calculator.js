@@ -6,7 +6,7 @@ class Calculator {
   set(num) {
     this.value = num;
   }
-
+ 
   clear() {
     this.value = 0;
   }

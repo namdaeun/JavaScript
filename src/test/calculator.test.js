@@ -1,5 +1,5 @@
 const Calculator = require('../calculator.js');
-
+ 
 // 독립적으로 동작하는 게  중요!
 // -> beforeEach()사용 - 테스트 전에 공통적으로 실행하는 코드
 // +) afterEach() - 테스트가 끝나고 공통적으로 수행하는 코드
