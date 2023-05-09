@@ -10,7 +10,7 @@ class Calculator {
   clear() {
     this.value = 0;
   }
-
+ 
   add(num) {
     const sum = this.value + num;
     if (sum > 100) {

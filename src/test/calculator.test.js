@@ -5,7 +5,7 @@ const Calculator = require('../calculator.js');
 // +) afterEach() - 테스트가 끝나고 공통적으로 수행하는 코드
 // +) beforeAll() - 테스트 전에 한 번만 실행
 // +) afterAll() - 테스트 후에 한 번만 실행
- 
+  
 describe('Calculator', () => {
     let cal;
     beforeEach(() => {
