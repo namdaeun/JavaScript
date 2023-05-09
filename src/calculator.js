@@ -29,7 +29,7 @@ class Calculator {
 
   divide(num) {
     this.value = this.value / num;
-  }
+  } 
 }
 
 module.exports = Calculator;
